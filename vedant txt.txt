@@ -1,0 +1,5 @@
+Okay, so looking at this design... honestly, I’m obsessed with the vibe! The dark theme is super easy on the eyes, especially when I’m listening to music late at night while studying. I really like how the top navigation bar includes an "Explore Premium" button without taking over the whole screen like some other apps do. Everything feels balanced and calm.
+
+The "Your rotation" row with cards like "On Repeat" and "Daily Mix 01" gives off major Spotify vibes, which I love because it makes the app instantly familiar to navigate. You don't have to figure out where things are because the hierarchy just works. The current playing bar at the bottom with the track thumbnail for "Never Enough" by The Saturdays and the heart icon to save songs is super convenient and standard.
+
+One thing I noticed, though, is the space allocation in the hero section. While the "YOU LIKE IT AFTER DARK" text looks visually striking, it takes up a lot of vertical screen real estate. On smaller laptops, you have to scroll down immediately to see your actual tracks or daily mixes. Shrinking that top hero banner slightly might give better visibility to music content right away.
